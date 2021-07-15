@@ -9,7 +9,7 @@ class HistoricalController extends Controller
 {
     public function index(Request $request)
     {
-        return view('historical.index');
+        return view('Historical.index');
     }
 
     public function save(Request $request)
@@ -21,6 +21,6 @@ class HistoricalController extends Controller
     public function show(Request $request)
     {
         $data = Historical::orderby('created_at','desc')->limit(25)->get();
-        return view('historical.historial')->with('data',$data);
+        return view('Historical.historial')->with('data',$data);
     }
 }
