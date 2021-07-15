@@ -4,8 +4,8 @@
   <title>Bitcoin Precio</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="shortcut icon" href="https://s2.coinmarketcap.com/static/img/coins/64x64/1.png">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-  
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
   
@@ -33,9 +33,9 @@
     </div>
 </div>
 <br>
-<div class="jumbotron text-center" style="margin-bottom:0">
-  <p>Footer</p>
-</div>
+<div class="text-center" style="margin-bottom:0">
+  <img src="https://image.freepik.com/vector-gratis/crypto-currency-banner-horizontal-bitcoin-digital-web-money-technology_48369-13318.jpg" width="100%" alt="">
+</div><br>
 
 </body>
 </html>

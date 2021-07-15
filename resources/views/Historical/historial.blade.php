@@ -7,7 +7,7 @@
       <tr>
         <th>Moneda</th>
         <th>Precio</th>
-        <th>Fecha</th>
+        <th>Ultima Actualizacion</th>
       </tr>
     </thead>
     <tbody>

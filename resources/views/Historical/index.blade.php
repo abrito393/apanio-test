@@ -33,7 +33,7 @@
 
         queryBtc();
         var ProcessQueryBtc = window.setInterval(function(){
-            //queryBtc();
+            queryBtc();
         }, 10000);
 
         function queryBtc() {
